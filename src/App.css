@@ -1,6 +1,15 @@
 .note-management-container{
   border: 1px solid;
-  width: 800px;
-  margin-top: 100px;
-  margin-left: 1000px;
+  width: 700px;
+  margin-bottom: 900px;
+  margin-left: 400px;
+  text-align: center;
+}
+.table{
+  width: 100%;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+.table th, table td{
+  border: 1px solid;
 }
